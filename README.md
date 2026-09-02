@@ -1,4 +1,4 @@
-# Cycloid Legal
+# chengyuchun Legal
 
 Public privacy policy and support pages for App Store / Google Play.
 
